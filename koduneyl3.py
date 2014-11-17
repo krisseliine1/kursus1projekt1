@@ -7,5 +7,7 @@ def minu_suffle(järjend):
         järjend[b] = a
         
     return järjend
+print(minu_shuffle([2,3,4,6,7])
+    
 
 
